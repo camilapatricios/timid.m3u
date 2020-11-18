@@ -1,0 +1,619 @@
+#EXTM3U
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E FHD
+http://bldtv.vip:80/julio2603/2603juli/22656
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61147
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30973
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E HD
+http://bldtv.vip:80/julio2603/2603juli/5100
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E HD ²
+http://bldtv.vip:80/julio2603/2603juli/21189
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E SD
+http://bldtv.vip:80/julio2603/2603juli/5101
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E SD ²
+http://bldtv.vip:80/julio2603/2603juli/21188
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png",AMC FHD
+http://bldtv.vip:80/julio2603/2603juli/22655
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png",AMC FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61146
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png",AMC FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/50873
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png",AMC HD
+http://bldtv.vip:80/julio2603/2603juli/5098
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png",AMC HD ²
+http://bldtv.vip:80/julio2603/2603juli/21187
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png",AMC SD
+http://bldtv.vip:80/julio2603/2603juli/5099
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/amc.png",AMC SD ²
+http://bldtv.vip:80/julio2603/2603juli/21186
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/canalbrasil.png",CANAL BRASIL FHD
+http://bldtv.vip:80/julio2603/2603juli/25404
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/canalbrasil.png",CANAL BRASIL FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59867
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/canalbrasil.png",CANAL BRASIL FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/62755
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/canalbrasil.png",CANAL BRASIL HD
+http://bldtv.vip:80/julio2603/2603juli/5094
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/canalbrasil.png",CANAL BRASIL SD
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/sony.png",CANAL SONY FHD
+http://bldtv.vip:80/julio2603/2603juli/22651
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/sony.png",CANAL SONY FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59866
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/sony.png",CANAL SONY FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30970
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/sony.png",CANAL SONY HD
+http://bldtv.vip:80/julio2603/2603juli/5092
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/sony.png",CANAL SONY HD ²
+http://bldtv.vip:80/julio2603/2603juli/21165
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/sony.png",CANAL SONY SD
+http://bldtv.vip:80/julio2603/2603juli/5093
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/sony.png",CANAL SONY SD ²
+http://bldtv.vip:80/julio2603/2603juli/21164
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinesky.png",CINE SKY 1 FHD
+http://bldtv.vip:80/julio2603/2603juli/169918
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinesky.png",CINE SKY 2 FHD
+http://bldtv.vip:80/julio2603/2603juli/169919
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinesky.png",CINE SKY 3 FHD
+http://bldtv.vip:80/julio2603/2603juli/169920
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinesky.png",CINE SKY 4 FHD
+http://bldtv.vip:80/julio2603/2603juli/169921
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinesky.png",CINE SKY 5 FHD
+http://bldtv.vip:80/julio2603/2603juli/170024
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 1 HD
+http://bldtv.vip:80/julio2603/2603juli/173941
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 2 HD
+http://bldtv.vip:80/julio2603/2603juli/173942
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 3 HD
+http://bldtv.vip:80/julio2603/2603juli/173943
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 4 HD
+http://bldtv.vip:80/julio2603/2603juli/173944
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 5 HD
+http://bldtv.vip:80/julio2603/2603juli/173945
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 6 HD
+http://bldtv.vip:80/julio2603/2603juli/173946
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 7 HD
+http://bldtv.vip:80/julio2603/2603juli/173947
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 8 HD
+http://bldtv.vip:80/julio2603/2603juli/173948
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/skyplay.png",CINE SKY PLAY 9 HD
+http://bldtv.vip:80/julio2603/2603juli/173949
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png",CINEMAX FHD
+http://bldtv.vip:80/julio2603/2603juli/22649
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png",CINEMAX FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59864
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png",CINEMAX FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/50876
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png",CINEMAX HD
+http://bldtv.vip:80/julio2603/2603juli/5090
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png",CINEMAX HD ²
+http://bldtv.vip:80/julio2603/2603juli/21183
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png",CINEMAX SD
+http://bldtv.vip:80/julio2603/2603juli/5091
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/cinemax.png",CINEMAX SD ²
+http://bldtv.vip:80/julio2603/2603juli/21182
+#EXTINF:-1 group-title="FILMES E SÉRIES",FILM&ARTS SD
+http://bldtv.vip:80/julio2603/2603juli/177943
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png",FOX FHD
+http://bldtv.vip:80/julio2603/2603juli/5106
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png",FOX FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59857
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png",FOX FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30960
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png",FOX HD
+http://bldtv.vip:80/julio2603/2603juli/5088
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png",FOX HD (CDN)
+http://bldtv.vip:80/julio2603/2603juli/174829
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png",FOX HD ²
+http://bldtv.vip:80/julio2603/2603juli/21181
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png",FOX LIFE FHD
+http://bldtv.vip:80/julio2603/2603juli/22638
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png",FOX LIFE FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59856
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png",FOX LIFE HD
+http://bldtv.vip:80/julio2603/2603juli/5086
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png",FOX LIFE HD ²
+http://bldtv.vip:80/julio2603/2603juli/21287
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png",FOX LIFE SD
+http://bldtv.vip:80/julio2603/2603juli/5087
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/variedades/foxlife.png",FOX LIFE SD ²
+http://bldtv.vip:80/julio2603/2603juli/21286
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png",FOX PREMIUM 1 FHD
+http://bldtv.vip:80/julio2603/2603juli/22637
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png",FOX PREMIUM 1 FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59855
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png",FOX PREMIUM 1 FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/52194
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png",FOX PREMIUM 1 HD
+http://bldtv.vip:80/julio2603/2603juli/5084
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png",FOX PREMIUM 1 HD ²
+http://bldtv.vip:80/julio2603/2603juli/25575
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium.png",FOX PREMIUM 1 SD
+http://bldtv.vip:80/julio2603/2603juli/5085
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium2.png",FOX PREMIUM 2 FHD
+http://bldtv.vip:80/julio2603/2603juli/5103
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium2.png",FOX PREMIUM 2 FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59854
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium2.png",FOX PREMIUM 2 FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/52210
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium2.png",FOX PREMIUM 2 HD
+http://bldtv.vip:80/julio2603/2603juli/5082
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium2.png",FOX PREMIUM 2 HD ²
+http://bldtv.vip:80/julio2603/2603juli/25577
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/foxpremium2.png",FOX PREMIUM 2 SD
+http://bldtv.vip:80/julio2603/2603juli/5083
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png",FOX SD
+http://bldtv.vip:80/julio2603/2603juli/5089
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fox.png",FOX SD ²
+http://bldtv.vip:80/julio2603/2603juli/21180
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fx.png",FX FHD
+http://bldtv.vip:80/julio2603/2603juli/22635
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fx.png",FX FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59852
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fx.png",FX FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30946
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fx.png",FX HD
+http://bldtv.vip:80/julio2603/2603juli/5080
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fx.png",FX HD ²
+http://bldtv.vip:80/julio2603/2603juli/21179
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fx.png",FX SD
+http://bldtv.vip:80/julio2603/2603juli/5081
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/fx.png",FX SD ²
+http://bldtv.vip:80/julio2603/2603juli/21178
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/megapix.png",MEGAPIX FHD
+http://bldtv.vip:80/julio2603/2603juli/22623
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/megapix.png",MEGAPIX FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59838
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/megapix.png",MEGAPIX FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/52211
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/megapix.png",MEGAPIX HD
+http://bldtv.vip:80/julio2603/2603juli/5071
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/megapix.png",MEGAPIX HD ²
+http://bldtv.vip:80/julio2603/2603juli/21169
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/megapix.png",MEGAPIX SD
+http://bldtv.vip:80/julio2603/2603juli/5072
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/megapix.png",MEGAPIX SD ²
+http://bldtv.vip:80/julio2603/2603juli/21168
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/paramount.png",PARAMOUNT FHD
+http://bldtv.vip:80/julio2603/2603juli/22615
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/paramount.png",PARAMOUNT FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59830
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/paramount.png",PARAMOUNT FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/50871
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/paramount.png",PARAMOUNT HD
+http://bldtv.vip:80/julio2603/2603juli/5069
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/paramount.png",PARAMOUNT HD ²
+http://bldtv.vip:80/julio2603/2603juli/21167
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/paramount.png",PARAMOUNT SD
+http://bldtv.vip:80/julio2603/2603juli/5070
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/paramount.png",PARAMOUNT SD ²
+http://bldtv.vip:80/julio2603/2603juli/21166
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/space.png",SPACE FHD
+http://bldtv.vip:80/julio2603/2603juli/22611
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/space.png",SPACE FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59822
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/space.png",SPACE FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30933
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/space.png",SPACE HD
+http://bldtv.vip:80/julio2603/2603juli/5065
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/space.png",SPACE HD ²
+http://bldtv.vip:80/julio2603/2603juli/21163
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/space.png",SPACE SD
+http://bldtv.vip:80/julio2603/2603juli/5066
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/space.png",SPACE SD ²
+http://bldtv.vip:80/julio2603/2603juli/21162
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png",STUDIO UNIVERSAL FHD
+http://bldtv.vip:80/julio2603/2603juli/22610
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png",STUDIO UNIVERSAL FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59818
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png",STUDIO UNIVERSAL FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30929
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png",STUDIO UNIVERSAL HD
+http://bldtv.vip:80/julio2603/2603juli/5063
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png",STUDIO UNIVERSAL HD ²
+http://bldtv.vip:80/julio2603/2603juli/21161
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png",STUDIO UNIVERSAL SD
+http://bldtv.vip:80/julio2603/2603juli/5064
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/studio.png",STUDIO UNIVERSAL SD ²
+http://bldtv.vip:80/julio2603/2603juli/21160
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/syfy.png",SYFY FHD
+http://bldtv.vip:80/julio2603/2603juli/22609
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/syfy.png",SYFY FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59817
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/syfy.png",SYFY FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/50874
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/syfy.png",SYFY HD
+http://bldtv.vip:80/julio2603/2603juli/5067
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/syfy.png",SYFY HD ²
+http://bldtv.vip:80/julio2603/2603juli/21159
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/syfy.png",SYFY SD
+http://bldtv.vip:80/julio2603/2603juli/5068
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/syfy.png",SYFY SD ²
+http://bldtv.vip:80/julio2603/2603juli/21158
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tbs.png",TBS FHD
+http://bldtv.vip:80/julio2603/2603juli/22608
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tbs.png",TBS FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59816
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tbs.png",TBS FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30928
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tbs.png",TBS HD
+http://bldtv.vip:80/julio2603/2603juli/5059
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tbs.png",TBS HD ²
+http://bldtv.vip:80/julio2603/2603juli/29586
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tbs.png",TBS SD
+http://bldtv.vip:80/julio2603/2603juli/5060
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tcm.png",TCM SD
+http://bldtv.vip:80/julio2603/2603juli/5058
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tcm.png",TCM SD ²
+http://bldtv.vip:80/julio2603/2603juli/21313
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tnt.png",TNT FHD
+http://bldtv.vip:80/julio2603/2603juli/22605
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tnt.png",TNT FHD ²
+http://bldtv.vip:80/julio2603/2603juli/177939
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tnt.png",TNT FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59809
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tnt.png",TNT FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30921
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tnt.png",TNT HD
+http://bldtv.vip:80/julio2603/2603juli/5056
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tnt.png",TNT HD ²
+http://bldtv.vip:80/julio2603/2603juli/21157
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tnt.png",TNT SD
+http://bldtv.vip:80/julio2603/2603juli/5057
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tnt.png",TNT SD ²
+http://bldtv.vip:80/julio2603/2603juli/21156
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tntseries.png",TNT SÉRIES FHD
+http://bldtv.vip:80/julio2603/2603juli/22604
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tntseries.png",TNT SERIES FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59808
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tntseries.png",TNT SERIES FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30920
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tntseries.png",TNT SERIES HD
+http://bldtv.vip:80/julio2603/2603juli/5054
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tntseries.png",TNT SERIES HD ²
+http://bldtv.vip:80/julio2603/2603juli/21155
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tntseries.png",TNT SERIES SD
+http://bldtv.vip:80/julio2603/2603juli/5055
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/tntseries.png",TNT SERIES SD ²
+http://bldtv.vip:80/julio2603/2603juli/21154
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png",UNIVERSAL CHANNEL FHD
+http://bldtv.vip:80/julio2603/2603juli/22601
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png",UNIVERSAL CHANNEL FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59806
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png",UNIVERSAL CHANNEL FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30919
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png",UNIVERSAL CHANNEL HD
+http://bldtv.vip:80/julio2603/2603juli/5052
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png",UNIVERSAL CHANNEL HD ²
+http://bldtv.vip:80/julio2603/2603juli/21153
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png",UNIVERSAL CHANNEL SD
+http://bldtv.vip:80/julio2603/2603juli/5053
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/universal.png",UNIVERSAL CHANNEL SD ²
+http://bldtv.vip:80/julio2603/2603juli/21152
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/warner.png",WARNER CHANNEL FHD
+http://bldtv.vip:80/julio2603/2603juli/5102
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/warner.png",WARNER CHANNEL FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59803
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/warner.png",WARNER CHANNEL FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30918
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/warner.png",WARNER CHANNEL HD
+http://bldtv.vip:80/julio2603/2603juli/5050
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/warner.png",WARNER CHANNEL HD ²
+http://bldtv.vip:80/julio2603/2603juli/21151
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/warner.png",WARNER CHANNEL SD
+http://bldtv.vip:80/julio2603/2603juli/5051
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/warner.png",WARNER CHANNEL SD ²
+http://bldtv.vip:80/julio2603/2603juli/21150
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png",ARTE 1 FHD
+http://bldtv.vip:80/julio2603/2603juli/22654
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png",ARTE 1 FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170339
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png",ARTE 1 FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59873
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png",ARTE 1 HD
+http://bldtv.vip:80/julio2603/2603juli/5273
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png",ARTE 1 HD ²
+http://bldtv.vip:80/julio2603/2603juli/21300
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png",ARTE 1 HD ³
+http://bldtv.vip:80/julio2603/2603juli/170166
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/arte1.png",ARTE 1 SD
+http://bldtv.vip:80/julio2603/2603juli/5274
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/cheftv.png",CHEF TV FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170041
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/cheftv.png",CHEF TV HD ³
+http://bldtv.vip:80/julio2603/2603juli/170184
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL FHD
+http://bldtv.vip:80/julio2603/2603juli/22648
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170356
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59862
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/50881
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL HD
+http://bldtv.vip:80/julio2603/2603juli/5269
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL HD ²
+http://bldtv.vip:80/julio2603/2603juli/25570
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL HD ³
+http://bldtv.vip:80/julio2603/2603juli/170189
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL SD
+http://bldtv.vip:80/julio2603/2603juli/5270
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/comedy.png",COMEDY CENTRAL SD ²
+http://bldtv.vip:80/julio2603/2603juli/25569
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/curta.png",CURTA! FHD
+http://bldtv.vip:80/julio2603/2603juli/22647
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/curta.png",CURTA! FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170358
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/curta.png",CURTA! FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59861
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/curta.png",CURTA! HD
+http://bldtv.vip:80/julio2603/2603juli/5267
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/curta.png",CURTA! HD ³
+http://bldtv.vip:80/julio2603/2603juli/170191
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/curta.png",CURTA! SD
+http://bldtv.vip:80/julio2603/2603juli/5268
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/curta.png",CURTA! SD ²
+http://bldtv.vip:80/julio2603/2603juli/21298
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H FHD
+http://bldtv.vip:80/julio2603/2603juli/5009
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H FHD ²
+http://bldtv.vip:80/julio2603/2603juli/177752
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170360
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61143
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/52198
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H HD
+http://bldtv.vip:80/julio2603/2603juli/4997
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H HD (CDN)
+http://bldtv.vip:80/julio2603/2603juli/55983
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H HD ²
+http://bldtv.vip:80/julio2603/2603juli/21295
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H HD ³
+http://bldtv.vip:80/julio2603/2603juli/170193
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H SD
+http://bldtv.vip:80/julio2603/2603juli/4998
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryheh.png",DISCOVERY H&H SD ²
+http://bldtv.vip:80/julio2603/2603juli/21294
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO FHD
+http://bldtv.vip:80/julio2603/2603juli/5008
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO FHD ²
+http://bldtv.vip:80/julio2603/2603juli/174612
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170365
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61139
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/52197
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO HD
+http://bldtv.vip:80/julio2603/2603juli/4991
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO HD (CDN)
+http://bldtv.vip:80/julio2603/2603juli/174837
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO HD ²
+http://bldtv.vip:80/julio2603/2603juli/21293
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO HD ³
+http://bldtv.vip:80/julio2603/2603juli/170198
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO SD
+http://bldtv.vip:80/julio2603/2603juli/4992
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/discoveryturbo.png",DISCOVERY TURBO SD ²
+http://bldtv.vip:80/julio2603/2603juli/21292
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E!  FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170371
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E! FHD
+http://bldtv.vip:80/julio2603/2603juli/22642
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E! FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61135
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E! FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/52195
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E! HD
+http://bldtv.vip:80/julio2603/2603juli/5263
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E! HD ²
+http://bldtv.vip:80/julio2603/2603juli/21291
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E! HD ³
+http://bldtv.vip:80/julio2603/2603juli/170203
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E! SD
+http://bldtv.vip:80/julio2603/2603juli/5264
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/e.png",E! SD ²
+http://bldtv.vip:80/julio2603/2603juli/21290
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/fashiontv.png",FASHION TV FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170376
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/fashiontv.png",FASHION TV FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61132
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/fashiontv.png",FASHION TV HD ³
+http://bldtv.vip:80/julio2603/2603juli/170209
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK FHD
+http://bldtv.vip:80/julio2603/2603juli/22639
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170378
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59858
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30961
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK HD
+http://bldtv.vip:80/julio2603/2603juli/5259
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK HD ²
+http://bldtv.vip:80/julio2603/2603juli/21289
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK HD ³
+http://bldtv.vip:80/julio2603/2603juli/170211
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK SD
+http://bldtv.vip:80/julio2603/2603juli/5260
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/foodnetwork.png",FOOD NETWORK SD ²
+http://bldtv.vip:80/julio2603/2603juli/21288
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT FHD
+http://bldtv.vip:80/julio2603/2603juli/22633
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170391
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61126
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/52193
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT HD
+http://bldtv.vip:80/julio2603/2603juli/5257
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT HD ²
+http://bldtv.vip:80/julio2603/2603juli/21285
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT HD ³
+http://bldtv.vip:80/julio2603/2603juli/170244
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT SD
+http://bldtv.vip:80/julio2603/2603juli/5258
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/gnt.png",GNT SD ²
+http://bldtv.vip:80/julio2603/2603juli/21284
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/hgtv.png",HGTV FHD
+http://bldtv.vip:80/julio2603/2603juli/22646
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/hgtv.png",HGTV FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61144
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/hgtv.png",HGTV FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30967
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/hgtv.png",HGTV HD
+http://bldtv.vip:80/julio2603/2603juli/22661
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/hgtv.png",HGTV HD ²
+http://bldtv.vip:80/julio2603/2603juli/25571
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/hgtv.png",HGTV HD ³
+http://bldtv.vip:80/julio2603/2603juli/170101
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/hgtv.png",HGTV SD
+http://bldtv.vip:80/julio2603/2603juli/5000
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME FHD
+http://bldtv.vip:80/julio2603/2603juli/22627
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME FHD ²
+http://bldtv.vip:80/julio2603/2603juli/177751
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170402
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59843
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/30953
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME HD
+http://bldtv.vip:80/julio2603/2603juli/5255
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME HD ²
+http://bldtv.vip:80/julio2603/2603juli/21283
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME HD ³
+http://bldtv.vip:80/julio2603/2603juli/170256
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME SD
+http://bldtv.vip:80/julio2603/2603juli/5256
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/lifetime.png",LIFETIME SD ²
+http://bldtv.vip:80/julio2603/2603juli/21282
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/%2Bglobosat.png",MAIS GLOBOSAT FHD
+http://bldtv.vip:80/julio2603/2603juli/25405
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/%2Bglobosat.png",MAIS GLOBOSAT FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170403
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/%2Bglobosat.png",MAIS GLOBOSAT FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59842
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/%2Bglobosat.png",MAIS GLOBOSAT FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/62753
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/%2Bglobosat.png",MAIS GLOBOSAT HD
+http://bldtv.vip:80/julio2603/2603juli/5253
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/%2Bglobosat.png",MAIS GLOBOSAT HD ²
+http://bldtv.vip:80/julio2603/2603juli/21281
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/%2Bglobosat.png",MAIS GLOBOSAT HD ³
+http://bldtv.vip:80/julio2603/2603juli/170106
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/+globosat.png",MAIS GLOBOSAT SD
+http://bldtv.vip:80/julio2603/2603juli/5254
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/%2Bglobosat.png",MAIS GLOBOSAT SD ²
+http://bldtv.vip:80/julio2603/2603juli/21280
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/multishow.png",MULTISHOW FHD
+http://bldtv.vip:80/julio2603/2603juli/22620
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/multishow.png",MULTISHOW FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170407
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/multishow.png",MULTISHOW FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61122
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/multishow.png",MULTISHOW HD
+http://bldtv.vip:80/julio2603/2603juli/5249
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/multishow.png",MULTISHOW HD ²
+http://bldtv.vip:80/julio2603/2603juli/21279
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/multishow.png",MULTISHOW HD ³
+http://bldtv.vip:80/julio2603/2603juli/170260
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/multishow.png",MULTISHOW SD
+http://bldtv.vip:80/julio2603/2603juli/5250
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/multishow.png",MULTISHOW SD ²
+http://bldtv.vip:80/julio2603/2603juli/21278
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/playtv.png",PLAY TV FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170118
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/playtv.png",PLAY TV HD ³
+http://bldtv.vip:80/julio2603/2603juli/170269
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC FHD
+http://bldtv.vip:80/julio2603/2603juli/22606
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC FHD ²
+http://bldtv.vip:80/julio2603/2603juli/177753
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170440
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC FHD H265
+http://bldtv.vip:80/julio2603/2603juli/62738
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/62752
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC HD
+http://bldtv.vip:80/julio2603/2603juli/5241
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC HD ²
+http://bldtv.vip:80/julio2603/2603juli/21275
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC HD ³
+http://bldtv.vip:80/julio2603/2603juli/170306
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC SD
+http://bldtv.vip:80/julio2603/2603juli/5242
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/tlc.png",TLC SD ²
+http://bldtv.vip:80/julio2603/2603juli/21274
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/travelbox.png",TRAVEL BOX BRAZIL FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170444
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/travelbox.png",TRAVEL BOX BRAZIL FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61113
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/travelbox.png",TRAVEL BOX BRAZIL HD ³
+http://bldtv.vip:80/julio2603/2603juli/170310
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/trutv.png",TRUTV FHD
+http://bldtv.vip:80/julio2603/2603juli/22603
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/trutv.png",TRUTV FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170149
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/trutv.png",TRUTV FHD H265
+http://bldtv.vip:80/julio2603/2603juli/62737
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/trutv.png",TRUTV HD
+http://bldtv.vip:80/julio2603/2603juli/5244
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/trutv.png",TRUTV HD ³
+http://bldtv.vip:80/julio2603/2603juli/170311
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/trutv.png",TRUTV SD
+http://bldtv.vip:80/julio2603/2603juli/5243
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/trutv.png",TRUTV SD ²
+http://bldtv.vip:80/julio2603/2603juli/25596
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA FHD
+http://bldtv.vip:80/julio2603/2603juli/5275
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA FHD ³
+http://bldtv.vip:80/julio2603/2603juli/170451
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA FHD H265
+http://bldtv.vip:80/julio2603/2603juli/59804
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA HD
+http://bldtv.vip:80/julio2603/2603juli/5236
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA HD (CDN)
+http://bldtv.vip:80/julio2603/2603juli/174833
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA HD ²
+http://bldtv.vip:80/julio2603/2603juli/21273
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA HD ³
+http://bldtv.vip:80/julio2603/2603juli/170325
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA SD
+http://bldtv.vip:80/julio2603/2603juli/5237
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/Logo.png",VIVA SD ²
+http://bldtv.vip:80/julio2603/2603juli/21272
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/woohoo.png",WOOHOO FHD
+http://bldtv.vip:80/julio2603/2603juli/22599
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/woohoo.png",WOOHOO FHD H265
+http://bldtv.vip:80/julio2603/2603juli/61110
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/woohoo.png",WOOHOO FHD H265 ²
+http://bldtv.vip:80/julio2603/2603juli/62751
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/woohoo.png",WOOHOO HD
+http://bldtv.vip:80/julio2603/2603juli/5234
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/woohoo.png",WOOHOO HD ²
+http://bldtv.vip:80/julio2603/2603juli/43278
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/woohoo.png",WOOHOO HD ³
+http://bldtv.vip:80/julio2603/2603juli/170327
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/woohoo.png",WOOHOO SD
+http://bldtv.vip:80/julio2603/2603juli/5235
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="http://static.bldn.vip/logos/variedades/woohoo.png",WOOHOO SD ²
+http://bldtv.vip:80/julio2603/2603juli/21296
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="http://static.bldn.vip/logos/globo/tvverdemares.png",GLOBO TV VERDES MARES CARIRI FHD
+http://bldtv.vip:80/julio2603/2603juli/173964
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="http://static.bldn.vip/logos/globo/tvverdemares.png",GLOBO TV VERDES MARES CARIRI HD
+http://bldtv.vip:80/julio2603/2603juli/173965
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="http://static.bldn.vip/logos/globo/tvverdemares.png",GLOBO TV VERDES MARES CARIRI SD
+http://bldtv.vip:80/julio2603/2603juli/173966
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="http://static.bldn.vip/logos/globo/tvverdemares.png",GLOBO TV VERDES MARES CEARA HD
+http://bldtv.vip:80/julio2603/2603juli/164619
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="http://static.bldn.vip/logos/globo/tvverdemares.png",GLOBO TV VERDES MARES CEARA SD
+http://bldtv.vip:80/julio2603/2603juli/164620
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="http://static.bldn.vip/logos/globo/tvverdemares.png",GLOBO TV VERDES MARES FHD
+http://bldtv.vip:80/julio2603/2603juli/164603
+#EXTINF:-1 group-title="REDE GLOBO" tvg-logo="http://static.bldn.vip/logos/globo/tvverdemares.png",GLOBO TV VERDES MARES FHD ³
