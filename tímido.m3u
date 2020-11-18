@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="FILMES E SÉRIES tvg-logo="https://www.liebeurl.me/logos/axn.png",AXN FHD
+http://198.27.80.131:80/maxwel/maxwel/3706
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://a5.vc/dbM",AXN FHD [H265]
+http://198.27.80.131:80/maxwel/maxwel/28750
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://www.liebeurl.me/logos/axn.png",AXN HD
+http://198.27.80.131:80/maxwel/maxwel/3707
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://www.liebeurl.me/logos/axn.png",AXN HD [Alter]
+http://198.27.80.131:80/maxwel/maxwel/7923
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://www.liebeurl.me/logos/axn.png",AXN HD [Alter²]
+http://198.27.80.131:80/maxwel/maxwel/31562
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://www.liebeurl.me/logos/axn.png",AXN SD
+http://198.27.80.131:80/maxwel/maxwel/4362
+#EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="https://www.liebeurl.me/logos/axn.png",AXN SD [Alter]
+http://198.27.80.131:80/maxwel/maxwel/7924
 #EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E FHD
 http://bldtv.vip:80/julio2603/2603juli/22656
 #EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://static.bldn.vip/logos/filmeseseries/a_e.png",A&E FHD H265
